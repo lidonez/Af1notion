@@ -109,12 +109,12 @@ const LayoutIndex = props => {
       {/* 首屏宣传区块 */}
       <Hero posts={posts} />
 
-      {/* 最新文章区块 */}
-      <PostSimpleListHorizontal
-        title='最新文章'
-        href='/archive'
-        posts={newPosts}
-      />
+      //{/* 最新文章区块 */}
+      //<PostSimpleListHorizontal
+        //title='最新文章'
+        //href='/archive'
+        //posts={newPosts}
+      ///>
 
       {/* 文章分类陈列区 */}
       <PostBannerGroupByCategory {...props} />
