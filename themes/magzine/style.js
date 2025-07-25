@@ -7,6 +7,9 @@
 const Style = () => {
   return (
     <style jsx global>{`
+      #footer-bottom {
+        display: none !important;
+      }
       // 底色
       .dark body {
         background-color: black;
