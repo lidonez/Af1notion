@@ -26,8 +26,8 @@ const CONFIG = {
   MAGZINE_POST_LIST_CATEGORY: true, // 列表显示文章分类
   MAGZINE_POST_LIST_TAG: false, // 列表显示文章标签
 
-  MAGZINE_POST_DETAIL_CATEGORY: false, // 文章显示分类
-  MAGZINE_POST_DETAIL_TAG: false, // 文章显示标签
+  MAGZINE_POST_DETAIL_CATEGORY: true, // 文章显示分类
+  MAGZINE_POST_DETAIL_TAG: true, // 文章显示标签
 
   // 文章页面联系卡
   MAGZINE_SOCIAL_CARD: false, // 是否显示右侧，点击加入社群按钮
