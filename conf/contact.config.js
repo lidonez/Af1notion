@@ -1,7 +1,7 @@
 /**
  * 社交按钮相关的配置同意放这
  */
-module。exports = {
+module.exports = {
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   CONTACT_EMAIL: process.env.NEXT_PUBLIC_CONTACT_EMAIL || 'aimeefzy@gmail.com', // 邮箱地址 例如mail@tangly1024.com
   CONTACT_WEIBO: process.env.NEXT_PUBLIC_CONTACT_WEIBO || 'https://weibo.com/u/2839738845', // 你的微博个人主页
